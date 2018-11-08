@@ -30,3 +30,11 @@ Referências
 [Folha de São Paulo](https://www1.folha.uol.com.br/tec/2018/07/celular-e-mais-utilizado-do-que-computador-para-acessar-internet-no-brasil.shtml)
 
 [TIC DOMICÍLIOS](https://www.cetic.br/media/docs/publicacoes/2/TIC_DOM_2016_LivroEletronico.pdf)
+
+
+
+links de pesquisa hoje 8/11
+http://www.scielo.br/pdf/eagri/v28n1/a05v28n1
+http://www.ijiet.org/vol7/889-T32.pdf
+http://monografias.ufop.br/bitstream/35400000/629/1/Monografia_Caracteriza%C3%A7%C3%A3oPerfilUso.pdf -> top
+https://www.cetic.br/media/docs/publicacoes/2/TIC_DOM_2016_LivroEletronico.pdf
