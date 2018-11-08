@@ -1,20 +1,30 @@
-### Aplicativo pra alunos se conectarem a instituição de ensino
 
-#### Justificativa
-Estudando e trabalhando em uma instituição de ensino superior, pude perceber a falta de um aplicativo centralizado para realizar uma ponte entre aluno e a instituição. 
+## Introdução
+Segundo as estimativas da TIC Domicílios, aproximadamente 146,9 milhões de brasileiros
+possuíam telefones celulares em 2016, o que corresponde a 83% da população. A posse de
+celular segue a tendência de estabilidade na população desde 2012, quando 82% possuía
+telefone celular. No nível domiciliar o celular também é bastante disseminado, uma vez
+que está presente em 93% dos domicílios brasileiros, indicador que também apresentou
+estabilidade desde 2014 (92%), após anos seguidos de crescimento desde 2008 (72%).
 
-#### Objetivos gerais
-Desenvolver um aplicativo para integrar e facilitar as funções do discente em relação ao seu local de ensino
+A alta disponibilidade de telefones celulares facilita a comunicação, segundo 
+a Folha de São paulo, quase metade dos brasileiros que acessam a internet 
+o fazem por telefone celular. Das 120,7 milhões de pessoas que acessaram a internet 
+entre maio e julho de 2018, 49% o fizeram utilizando somente o celular e 
+apenas 4% somente pelo computador.
 
-#### Objetivos específicos
-* Realizar uma pesquisa sobre aplicativos existentes no mercado
-* Realizar uma pesquisa sobre processos que o aluno realiza em uma instituição
-* Identificar ferramentas e processos de construção para o aplicativo
-* Criar um protótipo do aplicativo.
+O aplicativo em questão neste artigo, visa facilitar a integração entre o 
+aluno e a sua instituição de ensino, permitindo um acesso unificado e simplificado 
+para diversas informações e areas da instituição. Além disso, esta ferramenta tem 
+como objetivo agilizar a comunicação e solicitações do discente no deccorer de 
+sua vida acadêmica.
+
+A ideia inicial surgiu após tomar conhecimento do uso de diversas aplicações 
+no decorrer da vida acadêmica do discente, cada aplicação com uma interface e 
+forma de acesso diferente, sem uma area central para agregar e apresentar estas
+informações de forma simplificada.  
 
 
-~~Realizar tarefas simples como solicitar uma declaração, visualizar as notas, planos de ensino entre outros poderiam ficar integrados em um aplicativo só.~~
-
-> Falar do React native;
-> Falar do android;
-> Falar sobre webservice.
+Referências
+[Folha de São Paulo](https://www1.folha.uol.com.br/tec/2018/07/celular-e-mais-utilizado-do-que-computador-para-acessar-internet-no-brasil.shtml)
+[TIC DOMICÍLIOS](https://www.cetic.br/media/docs/publicacoes/2/TIC_DOM_2016_LivroEletronico.pdf)
