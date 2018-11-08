@@ -26,5 +26,7 @@ informações de forma simplificada.
 
 
 Referências
+
 [Folha de São Paulo](https://www1.folha.uol.com.br/tec/2018/07/celular-e-mais-utilizado-do-que-computador-para-acessar-internet-no-brasil.shtml)
+
 [TIC DOMICÍLIOS](https://www.cetic.br/media/docs/publicacoes/2/TIC_DOM_2016_LivroEletronico.pdf)
